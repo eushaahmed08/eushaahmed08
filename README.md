@@ -51,7 +51,7 @@ Designed NoSQL data models and REST APIs for product catalog, cart, and order-ma
 
 ### 📄 Publication
 
-**A Deep Learning-Based Bengali Visual Question Answering System Using Contrastive Loss**
+**[A Deep Learning-Based Bengali Visual Question Answering System Using Contrastive Loss](https://www.researchgate.net/publication/380841233_A_Deep_Learning-Based_Bengali_Visual_Question_Answering_System_Using_Contrastive_Loss)**
 Published at ICEEICT 2024 — multimodal model using contrastive loss to improve visual-text alignment.
 
 ---
@@ -60,7 +60,7 @@ Published at ICEEICT 2024 — multimodal model using contrastive loss to improve
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eushaahmed08&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eushaahmed08&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=eushaahmed08&hide_border=true" height="165"/>
 </p>
 
 ---
