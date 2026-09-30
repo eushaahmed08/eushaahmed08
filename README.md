@@ -64,13 +64,9 @@ Published at ICEEICT 2024 — multimodal model using contrastive loss to improve
   
 </p>
 
----
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eushaahmed08/eushaahmed08/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
+
 
 ---
 
