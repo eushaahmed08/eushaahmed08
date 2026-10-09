@@ -7,7 +7,7 @@
 <p align="center">
   🎓 Graduating Dec 2026 — Ahsanullah University of Science and Technology (AUST)<br>
   🧠 Data Structures & Algorithms · OOP · Systems Fundamentals<br>
-  🏆 Codeforces peak rating 1193 · ICPC Dhaka Regionalist 2025
+  🏆 Codeforces peak rating 1216 · ICPC Dhaka Regionalist 2025
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 | Platform | Handle | Peak Rating |
 |---|---|---|
-| Codeforces | [eushaahmed08](https://codeforces.com/profile/eushaahmed08) | 1193 |
+| Codeforces | [eushaahmed08](https://codeforces.com/profile/eushaahmed08) | 1216 |
 | CodeChef | [eushaahmed08](https://www.codechef.com/users/eushaahmed08) | 1519 |
 | AtCoder | [eushaahmed08](https://atcoder.jp/users/eushaahmed08) | 333 |
 
