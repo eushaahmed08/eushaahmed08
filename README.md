@@ -50,7 +50,7 @@ I'm a final-year CS student who likes building reliable backends and solving har
 |---|---|---|
 | Codeforces | [eushaahmed08](https://codeforces.com/profile/eushaahmed08) | 1216 |
 | CodeChef | [eushaahmed08](https://www.codechef.com/users/eushaahmed08) | 1519 |
-| AtCoder | [eushaahmed08](https://atcoder.jp/users/eushaahmed08) | 333 |
+| AtCoder | [eushaahmed08](https://atcoder.jp/users/eushaahmed08) | 365 |
 <!--CP_END-->
 
 **Achievements**
