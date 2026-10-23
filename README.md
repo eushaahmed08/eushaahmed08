@@ -48,7 +48,7 @@ I'm a final-year CS student who likes building reliable backends and solving har
 <!--CP_START-->
 | Platform | Handle | Peak Rating |
 |---|---|---|
-| Codeforces | [eushaahmed08](https://codeforces.com/profile/eushaahmed08) | 1247 |
+| Codeforces | [eushaahmed08](https://codeforces.com/profile/eushaahmed08) | 1263 |
 | CodeChef | [eushaahmed08](https://www.codechef.com/users/eushaahmed08) | 1519 |
 | AtCoder | [eushaahmed08](https://atcoder.jp/users/eushaahmed08) | 365 |
 <!--CP_END-->
